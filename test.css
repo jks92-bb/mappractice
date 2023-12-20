@@ -1,0 +1,40 @@
+/* login용 css */
+
+h1{
+background-color: white;
+padding: 10px;
+text-align: center;
+}
+  
+b{
+font-style: italic;
+display: inline-block;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2023/06/01/05/58/ocean-8032698_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana;    
+}
+#box {
+    margin : 0px auto;
+    display: block;
+    width: 700px;
+    height: 900px;
+    padding-top: 10px;
+    padding-right: 110px;
+    padding-bottom: 10px;
+    padding-left: 14px;   
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    vertical-align: top;
+    vertical-align: top;
+    border-style: solid;
+    border-color: aquamarine;
+     }    
+#emailLabel {
+    width: 100px;
+    height: 20px;
+
+}
+    
